@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BAC:jar">
+    <output-path>$PROJECT_DIR$/target/artifacts/BAC_jar</output-path>
+    <root id="archive" name="BAC.jar">
+      <element id="module-output" name="BAC" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/alibaba/fastjson2/fastjson2/2.0.51/fastjson2-2.0.51.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/xerial/sqlite-jdbc/3.49.1.0/sqlite-jdbc-3.49.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.19.1/jsoup-1.19.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
